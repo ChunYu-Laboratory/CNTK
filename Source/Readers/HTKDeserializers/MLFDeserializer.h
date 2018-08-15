@@ -5,6 +5,7 @@
 
 #pragma once
 
+#include <File.h>
 #include <boost/noncopyable.hpp>
 #include "HTKDeserializer.h"
 #include "CorpusDescriptor.h"
